@@ -1,0 +1,36 @@
+body {
+    margin: 0px auto;
+    width: 950px;
+    height: 600px;
+}
+
+.container {
+    border: 1px solid black;
+    margin: auto;
+    width: 950px;
+    height: 600px;
+    background-color: violet;
+    margin-left: 0px;
+}
+
+table {
+    background-color: white;
+    width: 600px;
+    height: 600px;
+}
+
+th {
+    border: 1px solid black;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
